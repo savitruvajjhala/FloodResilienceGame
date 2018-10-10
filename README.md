@@ -3,7 +3,9 @@ It mainly concentrates on preventive measures and management aspects of floods.
 # Flood_Resilience_Game
 The Flood Resilience Game is an educational game that allows players to experience, explore, and learn about the flood risk and resilience of communities in river valleys.
 The basic outcomes of the game are:
+
 (i) Players experience the effects on resilience of investments in different types of “capital” – such as financial, human, social, built, and natural.
+
 (ii)Players have a better understanding of the influence of preparedness, response, reconstruction on flood resilience.
 
 (iii)Players learn of the benefits of investment in risk reduction before the flood strikes.
