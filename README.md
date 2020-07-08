@@ -1,7 +1,7 @@
 We have opted to work on flood and it's resilience. We are trying to automate flood resilience game published by International Institute for Applied System Analysis.
 It mainly concentrates on preventive measures and management aspects of floods.
 # Flood_Resilience_Game
-##(Developed as a part of Microsoft CodefunDo Challenge, 2018)
+## (Developed as a part of Microsoft CodefunDo Challenge, 2018)
 The Flood Resilience Game is an educational game that allows players to experience, explore, and learn about the flood risk and resilience of communities in river valleys.
 The basic outcomes of the game are:
 
